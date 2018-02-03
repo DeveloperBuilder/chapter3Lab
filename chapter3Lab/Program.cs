@@ -10,6 +10,12 @@ namespace chapter3Lab
     {
         static void Main(string[] args)
         {
+            //Using Microsoft Visual Studio C# Express edition, create a console application that declares two int values and perform the following operations on these numbers:
+            // 1.Display the numbers
+            // 2.Add the numbers and display the sum of the values
+            // 3.Calculate the average and display
+            // 4.Calculate the percentage on ons number by another and display
+            // 5.Convert the numbers to char values and display
             int a = 122;
             int b = 10;
             int c = a + b;
